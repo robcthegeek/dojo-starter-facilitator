@@ -2,11 +2,16 @@
 
 (Working title - naming is always hard 😊)
 
-> 🔍 This problem was discovered via [Daily Coding Problem](https://www.dailycodingproblem.com/).
+> 🔍 This problem was inspired via [Daily Coding Problem](https://www.dailycodingproblem.com/).
 
-Given a list of numbers `values`, and a number `k` - return whether any two numbers from the list add up to `k`.
+Given an input of a collection of positive integers - `values`  - and a number `k` - return whether any **two** numbers from the list add up to `k`.
 
 For example, given `[10, 15, 3, 7]` and `k` of `17`, return `true` since `10 + 7` is `17`.
+
+Additional Notes:
+
+* `values` can contain zero or more items.
+* `values` can have repeated numbers of the same value.
 
 ---
 
