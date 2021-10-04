@@ -18,5 +18,5 @@ Additional Notes:
 ## Stars
 
 * ⭐ Complete implementation, with any number of passes of `values`.
-* ⭐⭐ Find the answer with a **single** pass of the `values`.
+* ⭐⭐ Find the answer with a **single** pass of the `values` (in more formal terms, the target is to achieve `O(n)` time complexity). 
 * ⭐⭐⭐ Test performance improvement ideas and discuss your findings with the group.
