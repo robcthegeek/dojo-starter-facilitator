@@ -20,3 +20,7 @@ Time and time again TDD has been proven to yield better quality code - but in ad
 ### 3. Embrace the (growing) pains
 
 If you're finding some bits hard/awkward - they're likely growing pains. Stick with it and try to avoid the desire to rush to the end doing "as you normally would".
+
+### 4. Get focused!
+
+In an increasingly always-on world - close everything else down and focus on the code! 👩‍💻👨‍💻
