@@ -1,4 +1,4 @@
-# @robcthegeeks Dojo Starter Kit / Facilitators Tools
+# @robcthegeek's Dojo Starter Kit / Facilitators Tools
 Starter kit for those that facilitate Coding Dojos. Everything you need from tried-and-tested problems, easy-to-clone projects for commonly-used languages, and some advice and guidance on how to facilitate sessions.
 
 ![woman and man sitting in front of monitorv (cropped)](dojo-banner.jpg)
